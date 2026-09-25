@@ -29,18 +29,10 @@ I'm a full-time Computer Programming student building practical software, securi
 ## 🪽 The Citadel crew
 
 <p align="center">
-  <img src="./citadel-trio.gif" width="820" alt="Spunky, Spicy, and Codex — Citadel-AI companions">
+  <img src="./citadel-trio.gif" width="820" alt="Spunky, Codex, and Spicy — Citadel-AI companions">
 </p>
 
-<p align="center"><b>Spunky • Spicy • Codex</b></p>
-
-<details align="center">
-  <summary><b>🔥 Light the Citadel bonfire</b></summary>
-  <br>
-  <img src="./citadel-bonfire.gif" width="820" alt="Citadel companions around the bonfire">
-  <br>
-  <i>Bonfire lit. Productivity may or may not improve.</i>
-</details>
+<p align="center"><b>Spunky • Codex • Spicy</b></p>
 
 <details align="center">
   <summary><b>🚨 Panic Button</b></summary>
