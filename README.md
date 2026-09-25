@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Armando P.1988 — Programming, AI, Tech Developer">
+  <img src="./profile-banner.png" width="100%" alt="Armando P.1988 — Programming, AI, Tech Developer">
 </p>
 
 <h1 align="center">Armando P.1988</h1>
@@ -29,7 +29,7 @@ I'm a full-time Computer Programming student building practical software, securi
 ## 🪽 The Citadel crew
 
 <p align="center">
-  <img src="./assets/citadel-trio.gif" width="820" alt="Spunky, Spicy, and Codex — Citadel-AI companions">
+  <img src="./citadel-trio.gif" width="820" alt="Spunky, Spicy, and Codex — Citadel-AI companions">
 </p>
 
 <p align="center"><b>Spunky • Spicy • Codex</b></p>
@@ -37,7 +37,7 @@ I'm a full-time Computer Programming student building practical software, securi
 <details align="center">
   <summary><b>🔥 Light the Citadel bonfire</b></summary>
   <br>
-  <img src="./assets/citadel-bonfire.gif" width="820" alt="Citadel companions around the bonfire">
+  <img src="./citadel-bonfire.gif" width="820" alt="Citadel companions around the bonfire">
   <br>
   <i>Bonfire lit. Productivity may or may not improve.</i>
 </details>
@@ -74,7 +74,7 @@ Free, open-source Skills for safer development, debugging, Git, architecture, se
 [![GitHub](https://img.shields.io/badge/GitHub-armando71988padilla--cloud-111111?style=for-the-badge&logo=github)](https://github.com/armando71988padilla-cloud)
 
 <p align="center">
-  <img src="./assets/citadel-logo.png" width="120" alt="Citadel logo">
+  <img src="./citadel-logo.png" width="120" alt="Citadel logo">
 </p>
 
 <p align="center"><i>Build it. Test it. Verify it. Commit it.</i></p>
